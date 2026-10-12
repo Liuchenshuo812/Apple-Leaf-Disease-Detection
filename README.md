@@ -28,9 +28,8 @@ The model maintains a lightweight design with only **3.52M parameters** and **6.
 ### 3.1 Experimental Dataset
 
 This study uses two independent datasets:
-- **Main Dataset (Self-built):** 7,232 images (Healthy: 1993, Scab: 1991, Black_rot: 1497, Cedar_rust: 1751). Split into train/val/test at a 3:1:1 ratio.
-- **Generalization Test Dataset (Open-source):** 3,444 images (Apple Leaf Diseases dataset). Split into train/val/test at a 3:1:1 ratio.
-
+- **Main Dataset (Open-source):** The "Plant Health Apple Disease Classification" dataset from Roboflow, containing 7,232 images (Healthy: 1993, Scab: 1991, Black_rot: 1497, Cedar_rust: 1751). Split into train/val/test at a 3:1:1 ratio. Available at: [https://app.roboflow.com]
+- **Generalization Test Dataset (Open-source):** The "Apple Leaf Diseases" dataset, containing 3,444 images. Split into train/val/test at a 3:1:1 ratio. Available at: [https://app.hyper.ai/console/public/datasets/KmCUAGSYDFc/1/overview?path=%2F]
 
 ### 3.2 Dataset Structure
 
