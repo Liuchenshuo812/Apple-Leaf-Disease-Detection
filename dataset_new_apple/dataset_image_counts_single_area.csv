@@ -1,0 +1,6 @@
+﻿类别,train,valid,test
+Healthy,1195,399,399
+Scab,1193,399,399
+Black_rot,898,300,299
+Cendar_rust,1050,350,351
+no_disease,11,1,317
